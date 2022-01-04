@@ -46,11 +46,27 @@ Material y Equipo Requerido
 
 3.2. Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
+![image](https://user-images.githubusercontent.com/93210648/148087191-2bb31a5f-dee5-46ae-be8e-9e9e7c964ac7.png)
+
+![image](https://user-images.githubusercontent.com/93210648/148087249-cb0793bb-d1dc-4d17-89f6-39dc076f763c.png)
+
+
+
 3.3. Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+
+![image](https://user-images.githubusercontent.com/93210648/148087737-2037cbe6-c372-4572-a849-55854a334fa9.png)
+
+![image](https://user-images.githubusercontent.com/93210648/148087771-2b98f1e3-92f7-4495-ae1a-e226a2b2fd30.png)
+
 
 3.4. Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
-3.5. Verifique el cumplimiento del Teorema de Superposición y compare losresultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus conclusiones.
+![image](https://user-images.githubusercontent.com/93210648/148087832-8dd23099-6e35-483d-8249-aec9544355ac.png)
+
+![image](https://user-images.githubusercontent.com/93210648/148087853-0bfdb669-35db-47a3-8671-f0367ad8e909.png)
+
+
+3.5. Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus conclusiones.
 
 ![image](https://user-images.githubusercontent.com/93210648/148080774-addf857a-3078-4d61-81c4-a5dcaeeb15b3.png)
 
